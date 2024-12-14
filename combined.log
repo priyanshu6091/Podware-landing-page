@@ -1,0 +1,31 @@
+2024-12-14T09:56:16.832Z info: Server running on port 3000
+2024-12-14T10:02:21.089Z info: Server running on port 3000
+2024-12-14T10:08:38.864Z info: Server running on port 3000
+2024-12-14T10:09:22.016Z error: Email sending failed: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2f142d93470sm4537380a91.4 - gsmtp
+2024-12-14T10:09:22.023Z error: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2f142d93470sm4537380a91.4 - gsmtp
+2024-12-14T10:12:37.862Z info: Server running on port 3000
+2024-12-14T10:13:21.493Z error: Email sending failed: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2f2a244a8c7sm1114714a91.51 - gsmtp
+2024-12-14T10:13:21.497Z error: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2f2a244a8c7sm1114714a91.51 - gsmtp
+2024-12-14T11:34:28.684Z info: Server running on port 3000
+2024-12-14T11:34:57.855Z error: Email sending failed: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-72918bc058bsm1241080b3a.175 - gsmtp
+2024-12-14T11:34:57.857Z error: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-72918bc058bsm1241080b3a.175 - gsmtp
+2024-12-14T11:35:33.198Z info: Server running on port 3000
+2024-12-14T11:36:01.542Z error: MongoServerError: E11000 duplicate key error collection: podware.earlyaccesses index: email_1 dup key: { email: "22it031@charusat.edu.in" }
+2024-12-14T11:36:56.255Z error: Email sending failed: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2f2a1ebca23sm1417332a91.30 - gsmtp
+2024-12-14T11:36:56.257Z error: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2f2a1ebca23sm1417332a91.30 - gsmtp
+2024-12-14T11:38:49.939Z info: Server running on port 3000
+2024-12-14T11:39:02.123Z error: MongoServerError: E11000 duplicate key error collection: podware.earlyaccesses index: email_1 dup key: { email: "galanipriyanshu@gmail.com" }
+2024-12-14T11:39:18.524Z info: Email sent successfully: <cdedef65-bd4c-b50c-3712-45a6cd993017@gmail.com>
+2024-12-14T11:39:18.525Z info: Early access request created for hiranijeel2004@gmail.com
+2024-12-14T11:41:38.171Z info: Email sent successfully: <233f0aed-1619-0787-3f3c-a5a93c8b521b@gmail.com>
+2024-12-14T11:41:38.173Z info: Early access request created for galanipriyanshu@gmail.com
+2024-12-14T11:43:02.576Z info: Email sent successfully: <31210065-0193-685c-50ed-e61b64ad562f@gmail.com>
+2024-12-14T11:43:02.578Z info: Early access request created for princedonda4489@gmail.com
