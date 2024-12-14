@@ -2,7 +2,7 @@ import axios from 'axios';
 import { User, Podcaster, EarlyAccessRequest } from '../types';
 
 const api = axios.create({
-  baseURL: 'http://localhost:3000/api'
+  baseURL: 'https://podware-landing-page.onrender.com/api'
 });
 
 export const earlyAccessService = {
